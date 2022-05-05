@@ -1,0 +1,5 @@
+.tall-rectangle {
+  height: 600px;
+  width: 200px;
+  border: 20px solid green;
+}
